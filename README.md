@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Artem
 - 👀 I’m interested in: JS, React, Frontend, Linux, Design, ...
 - 🌱 I’m currently learning: JS, React
+- 💼 My portfolio: https://aesadov.github.io/portfolio/
 - 📫 How to reach me: Telegram/WhatsApp: +7-987-750-05-55, aesadov@gmail.com
 
 <!---
